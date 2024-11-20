@@ -146,8 +146,8 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
+    name: "AWS",
+    img: "aws.svg",
     nameImg: "/cloudName.svg",
   },
   {
